@@ -4,20 +4,16 @@ F-Lab 스터디 - 이펙티브 코틀린입니다.
 
 ## 팀원
 - [theo](https://github.com/theo-f-lab)
-
-F-Lab의 스터디 진행 템플릿입니다. 스터디 방식에 따라 이 템플릿을 변형해서 사용합니다.
-
-## 팀원 (개인 Github 주소 링크)
-- [팀원명1](https://github.com/f-lab-dev)
-- [팀원명2](https://github.com/f-lab-dev)
-- [팀원명3](https://github.com/f-lab-dev)
+- 
 
 ## 스터디 시간 및 장소
-- 기간 : 2022년 2월 6일 ~ 2019년 3월 27일, 총 8주
-- 시간 : 매주 일요일 오후 4시에서 6시
-- 장소 : [F-Lab 커뮤니티 공간](http://naver.me/FlJcBZZe)
+- 기간 : 2022년 2월 6일 ~ 2022년 3월 27일, 총 8주
+- 시간 : 매주 일요일 오후 4시에서 ~ 6시
+- 장소 : [F-Lab gather.town - 2번째 방에서 진행](https://gather.town/invite?token=qSwZpEnXEJVgA0x-AfVDJdspcCrAh3Zn)
 
 ## 스터디 방법
+- 매주 1장씩을 읽어온다.
+- 
 - 각 장별로 발표자를 선정
 - 스터디 당일 장당 한시간정도 범위로 발표 진행
 - 자유로운 방식으로 진행 (ex. 슬라이드쇼형 발표자료 작성, 데모 시연 등)
