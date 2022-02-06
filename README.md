@@ -5,6 +5,7 @@ F-Lab 스터디 - 이펙티브 코틀린입니다.
 ## 팀원
 - [theo](https://github.com/theo-f-lab)
 - [이석균](https://github.com/Saerang)
+- [김지원](https://github.com/jiwondev)
 
 ## 스터디 시간 및 장소
 - 기간 : 2022년 2월 6일 ~ 2022년 3월 27일, 총 8주
