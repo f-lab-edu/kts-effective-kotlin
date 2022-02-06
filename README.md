@@ -27,6 +27,9 @@ F-Lab 스터디 - 이펙티브 코틀린입니다.
 - 스터디 방식 선정
 
 ### 1주차 
+- 1장에 대한 스터디 정리
+ - [minseongkimdev](minseongkimdev)
+ - [saerang](saerang)
 - 발표자명: [챕터1 - 챕터명](chapter1/README.md)
 - 발표자명: [챕터2 - 챕터명](chapter2/README.md)
 - 뒷풀이 : [명우돈가](http://naver.me/FiLE2gty)
