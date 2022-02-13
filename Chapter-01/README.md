@@ -12,5 +12,6 @@
 - [김지원](https://github.com/jiwondev)
 - [윤원준](https://github.com/gamzagamza)
 - [김승태](https://github.com/soongjamm)
-- [쿠키]
+- [한태웅]()
+- [쿠키]()
 - [Castle](https://github.com/minseongkimdev)
