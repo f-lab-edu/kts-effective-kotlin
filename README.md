@@ -36,6 +36,9 @@ F-Lab 스터디 - 이펙티브 코틀린입니다.
 - 1장에 대한 스터디 정리
   - [minseongkimdev(Castle)](https://github.com/minseongkimdev)
   - [saerang(이석균)](https://github.com/saerang)
-- 발표자명: [챕터1 - 챕터명](chapter1/README.md)
-- 발표자명: [챕터2 - 챕터명](chapter2/README.md)
-- 뒷풀이 : [명우돈가](http://naver.me/FiLE2gty)
+- 발표자명 : 랜덤으로 뽑아서 진행
+
+### 2주차
+- 2장에 대한 스터디 정리
+  - [김지원](https://github.com/jiwondev)
+  - [김승태](https://github.com/soongjamm)
