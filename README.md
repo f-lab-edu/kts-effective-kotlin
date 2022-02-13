@@ -9,7 +9,7 @@ F-Lab 스터디 - 이펙티브 코틀린입니다.
 - [Castle](https://github.com/minseongkimdev)
 - [윤원준](https://github.com/gamzagamza)
 - [김승태](https://github.com/soongjamm)
-- [한태웅(hubert)](https://github.com/f-lab-hubert)
+- [hubert](https://github.com/f-lab-hubert)
 - [쿠키](https://github.com/hello-jiwon)
 
 ## 스터디 시간 및 장소
