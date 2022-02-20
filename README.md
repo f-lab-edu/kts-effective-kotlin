@@ -25,6 +25,19 @@ F-Lab 스터디 - 이펙티브 코틀린입니다.
 - 시끄러운 장소인 분들 만 마이크 OFF
 - 매주 스터디 전 잡담 시간을 10분 정도 가진다.
 
+## 랜덤으로 뽑기 위한 코드
+
+```
+fun main() {
+    val list = mutableListOf("theo", "이석균", "김지원", "castle", "윤원준", "김승태", "한태웅", "쿠키")
+    (1..3).forEach { _ ->
+        val item = list.random()
+        println(item)
+        list.remove(item)
+    }
+}
+```
+
 ## 스케줄
 
 ### 오리엔테이션
