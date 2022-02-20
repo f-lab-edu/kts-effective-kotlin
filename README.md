@@ -55,3 +55,8 @@ fun main() {
 - 2장에 대한 스터디 정리
   - [김지원](https://github.com/jiwondev)
   - [김승태](https://github.com/soongjamm)
+
+### 3주차
+- 3장에 대한 스터디 정리
+  - [윤원준](https://github.com/gamzagamza)
+  - [한태웅(hubert)](https://github.com/f-lab-hubert)
