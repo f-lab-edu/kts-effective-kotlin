@@ -60,3 +60,8 @@ fun main() {
 - 3장에 대한 스터디 정리
   - [윤원준](https://github.com/gamzagamza)
   - [한태웅(hubert)](https://github.com/f-lab-hubert)
+
+### 4주차
+- 4장에 대한 스터디 정리
+  - [theo](https://github.com/theo-f-lab)
+  - [쿠키](https://github.com/hello-jiwon)
