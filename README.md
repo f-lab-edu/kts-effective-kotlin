@@ -68,5 +68,5 @@ fun main() {
 
 ### 5주차
 - 5장에 대한 스터디 정리 - 객체 생성
- - [이석균](https://github.com/Saerang)
- - [김지원](https://github.com/jiwondev)
+  - [이석균](https://github.com/Saerang)
+  - [김지원](https://github.com/jiwondev)
