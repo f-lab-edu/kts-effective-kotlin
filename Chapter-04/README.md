@@ -15,3 +15,4 @@ F-Lab 스터디 - 이펙티브 코틀린입니다.
 - [김승태](https://github.com/soongjamm)
 - [한태웅(hubert)](https://github.com/f-lab-hubert)
 - [쿠키](https://github.com/hello-jiwon)
+- [이석균](https://github.com/Saerang)
