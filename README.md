@@ -62,6 +62,9 @@ fun main() {
   - [한태웅(hubert)](https://github.com/f-lab-hubert)
 
 ### 4주차
-- 4장에 대한 스터디 정리
+- 4장에 대한 스터디 정리 - 추상화 설계
   - [theo](https://github.com/theo-f-lab)
   - [쿠키](https://github.com/hello-jiwon)
+
+### 5주차
+- 5장에 대한 스터디 정리 - 객체 생성
