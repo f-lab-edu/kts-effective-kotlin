@@ -9,3 +9,10 @@
 ## 대한 문서 정리 대상
 - [한태웅(hubert)](https://github.com/f-lab-hubert)
 - [김승태](https://github.com/soongjamm)
+
+
+## 7주차 스터디 참여자
+- [이석균](https://github.com/Saerang)
+- [김지원](https://github.com/jiwondev)
+- [한태웅(hubert)](https://github.com/f-lab-hubert)
+- [쿠키](https://github.com/hello-jiwon)
