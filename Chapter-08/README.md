@@ -9,3 +9,13 @@
 ## 대한 문서 정리 대상
 - [theo](https://github.com/theo-f-lab)
 - [쿠키](https://github.com/hello-jiwon)
+
+## 스터디 참여자
+- [theo](https://github.com/theo-f-lab)
+- [이석균](https://github.com/Saerang)
+- [김지원](https://github.com/jiwondev)
+- [minseongkimdev(Castle)](https://github.com/minseongkimdev)
+- [윤원준](https://github.com/gamzagamza)
+- [김승태](https://github.com/soongjamm)
+- [한태웅(hubert)](https://github.com/f-lab-hubert)
+- [쿠키](https://github.com/hello-jiwon)
